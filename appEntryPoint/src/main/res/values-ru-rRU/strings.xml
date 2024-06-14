@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internet_connection_lost">Потеряно соединение с интернетом</string>
+    <string name="geolocation_is_disabled">Геолокация выключена</string>
+</resources>

@@ -1,0 +1,3 @@
+-renamesourcefileattribute SourceFile
+-repackageclasses
+-optimizationpasses 3
