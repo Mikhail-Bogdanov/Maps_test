@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="settings">Настройки</string>
+    <string name="system_default">По умолчанию</string>
+    <string name="gave_approximate">Вы предоставили доступ к приблизительному местоположению, поэтому Ваш маркер на карте будет отображаться не совсем точно, дайте доступ к точному местоположению\n\nИли продолжайте без него</string>
+    <string name="give_location">Этому приложению необходимо разрешение на использование Вашего местоположения</string>
+    <string name="allow_precise_location">Разрешить точное местоположение</string>
+    <string name="request_permissions">Запросить разрешение</string>
+    <string name="continue_without_granting">Продолжить</string>
+    <string name="grant_coarse_from_settings">Это приложение не может работать без разрешения на использование местоположения\nПожалуйста дайте разрешение из настроек</string>
+    <string name="grant_fine_from_settings">Вы запретили использование точного местоположения, если вы хотите выдить свое точное местоположение на карте, дайте разрешение из настроек\n\nИли продолжайте так</string>
+    <string name="start">Начать</string>
+    <string name="go_to_settings">Открыть настройки</string>
+    <string name="add_new_point">Добавить пункт</string>
+    <string name="name">Название</string>
+    <string name="done">Готово</string>
+    <string name="counter_with_slash">%1$s/%2$s</string>
+    <string name="remove">Удалить</string>
+    <string name="welcome_to_maps_test_task">Добро пожаловать в приложение, сделанное в качестве тестового задания</string>
+    <string name="direction">Путь</string>
+</resources>
