@@ -2,7 +2,6 @@ package com.qwertyuiop.presentation.ui.utilsUI
 
 import android.content.Context
 import com.qwertyuiop.localData.entities.PointEntity
-import com.test_task.presentation.R
 import org.osmdroid.util.GeoPoint
 import org.osmdroid.views.MapView
 import org.osmdroid.views.overlay.Marker
@@ -16,7 +15,7 @@ object UtilsFunctions {
     ): Marker {
         val marker = Marker(mapView)
         marker.position = GeoPoint(latitude, longitude)
-        marker.setTextIcon(context.getString(R.string.increased_name_box, name)) //osm не идеален
+        marker.setTextIcon(name)
         marker.setOnMarkerClickListener { _, _ ->
             onMarkerClick(marker)
             true
